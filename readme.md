@@ -1,6 +1,6 @@
-# _{DODO}_
+# _DODO_
 
-#### _{My dodo bird page for Epicodus}, {4/17/17}_
+#### _My dodo bird page for Epicodus, {4/17/17}_
 
 #### By _**Daniel Lopez, Joe Werderber**_
 
@@ -20,15 +20,17 @@ __
 
 ## Known Bugs
 
-_{this page has no bugs, dodo's eat bugs }_
+_this page has no bugs, dodo's eat bugs_
 
 ## Support and contact details
 
-_{All your base are belong to us.}_
+_All your base are belong to us._
 
 ## Technologies Used
 
-_{the webz.}_
+* HTMl
+* CSS
+* JavaScript
 
 ### License
 
